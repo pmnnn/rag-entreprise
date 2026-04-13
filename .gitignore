@@ -12,4 +12,4 @@ data/
 
 # Fichiers Python
 __pycache__/
-*.py[cod]
+*.py[cod].env
