@@ -1,0 +1,10 @@
+anthropic
+langchain
+langchain-anthropic
+langchain-community
+langchain-chroma
+chromadb
+pypdf
+streamlit
+python-dotenv
+tiktoken
